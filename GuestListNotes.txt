@@ -1,0 +1,4 @@
+Welcome User
+Ask user name (Store name in list<string>)
+Ask how many are in their party (Create int and add the amount of people in the party)
+Ask print guest list? (if yes, break out of Do/While Loop)
